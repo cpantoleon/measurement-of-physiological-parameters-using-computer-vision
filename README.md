@@ -1,4 +1,4 @@
-# measurement-of-physiological-parameters-using-computer-vision
+# measurement of physiological parameters using computer vision
 
 This project deals with the implementation of a methodology for measurement of heart 
 rate and respiratory rate. First, we locate the areas of the chest and 
